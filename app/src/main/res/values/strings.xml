@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PotatoCrop</string>
+    <string name="camera_button_description">Camera Button</string>
+    <string name="gallery_button_description">Gallery Button</string>
+</resources>

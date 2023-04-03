@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "123386152738",
+    "project_id": "potatocrophealth",
+    "storage_bucket": "potatocrophealth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123386152738:android:c974c87f9bf1dbc2bb077b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123386152738-in4vcqq09i128c395udkae0nsnq03dck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ob_HLx9lUWYfjnGz7wxP3B_wRLlkFxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123386152738-in4vcqq09i128c395udkae0nsnq03dck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123386152738:android:07044f85be36b7eebb077b",
+        "android_client_info": {
+          "package_name": "com.example.potatocrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123386152738-in4vcqq09i128c395udkae0nsnq03dck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ob_HLx9lUWYfjnGz7wxP3B_wRLlkFxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123386152738-in4vcqq09i128c395udkae0nsnq03dck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
